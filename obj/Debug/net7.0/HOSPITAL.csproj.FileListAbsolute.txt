@@ -1,0 +1,14 @@
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\bin\Debug\net7.0\HOSPITAL.exe
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\bin\Debug\net7.0\HOSPITAL.deps.json
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\bin\Debug\net7.0\HOSPITAL.runtimeconfig.json
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\bin\Debug\net7.0\HOSPITAL.dll
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\bin\Debug\net7.0\HOSPITAL.pdb
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\obj\Debug\net7.0\HOSPITAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\obj\Debug\net7.0\HOSPITAL.AssemblyInfoInputs.cache
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\obj\Debug\net7.0\HOSPITAL.AssemblyInfo.cs
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\obj\Debug\net7.0\HOSPITAL.csproj.CoreCompileInputs.cache
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\obj\Debug\net7.0\HOSPITAL.dll
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\obj\Debug\net7.0\refint\HOSPITAL.dll
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\obj\Debug\net7.0\HOSPITAL.pdb
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\obj\Debug\net7.0\HOSPITAL.genruntimeconfig.cache
+C:\Users\jose campos\Documents\Proyectos C#\HOSPITAL\obj\Debug\net7.0\ref\HOSPITAL.dll
